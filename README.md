@@ -1,4 +1,6 @@
-## Bem-vindo(a) ao perfil do Lucas!
+## Welcome to my profile!
+
+Hello everyone! I am Lucas
 
  <div>
    <a href="https://github.com/Luk3mm">

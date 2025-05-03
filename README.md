@@ -1,11 +1,9 @@
-## Welcome to my profile!
-
 # Ola! eu sou Lucas
 🎮 Game Developer | 🎨 Game Designer | ✍️ Narrative Designer
 
 Sou um desenvolvedor de games apaixonado por games e tecnologia. Tenho experiencia com Unity e C# e desenvolvo jogos unindo uma gameplay divertida e narrativas envolventes.
 
-Atuacao em áreas do desenvolvimento de jogos:
+Atuação em áreas do desenvolvimento de jogos:
 - **Programação (Unity e C#)**: Sistemas de gameplay, IA, UI e outros.
 - **Game Design**: Mecânicas, balanceamento e dinâmica do jogo.
 - **Narrative Design**: Criação de mundos, personagens e roteiros.

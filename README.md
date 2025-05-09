@@ -20,7 +20,7 @@ Um jogo de plataforma 2D, onde controlamos Zane em desafios por uma cidade cyber
 - Tecnologias: Unity, C#, Miro (para brainstorm).
 
 <div>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
 </div>
 
 <div style="display: inline_block"><br>

@@ -19,8 +19,10 @@ Atuação em áreas do desenvolvimento de jogos:
 Um jogo de plataforma 2D, onde controlamos Zane em desafios por uma cidade cyberpunk futurista. Game disponivel durante a Gamescom Latam 2025!
 - Tecnologias: Unity, C#, Miro (para brainstorm).
 
+<br>
+
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luk3mm&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luk3mm&layout=compact&theme=radical">
 </div>
 
 <div style="display: inline_block"><br>
